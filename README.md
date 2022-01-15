@@ -8,13 +8,11 @@
 
 - I am planning to transition to Data Engineering, lately I have started learning about the topic and I am documenting the process through a series of posts and threads on Twitter, Linkedin and Medium.
 
-My Linkedin: [Linkedin](https://www.linkedin.com/in/hamza-mogni/)
-
-My Twitter: [Twitter](https://twitter.com/hamza_mogni)
-
-[![Twitter][1.2]][1]
+You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][1.1]][2]
 
 [1]: https://twitter.com/hamza_mogni
+[2]: https://www.linkedin.com/in/hamza-mogni/
+[1.1]: https://github.com/hamzamogni/hamzamogni/blob/40b0e15c7965d1208e48b1768ea0d6c125ed644b/linkedin.png?raw=true
 [1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
 
 <!--
