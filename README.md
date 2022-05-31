@@ -9,13 +9,14 @@
 
 - 👯 I’m looking to collaborate on **anything data-intensive and devops methodologies**
 
-- 👨‍💻 All of my projects are available at [hmogni.com/projects](hmogni.com/projects)
+<!-- - 👨‍💻 All of my projects are available at [hmogni.com/projects](hmogni.com/projects) -->
 
-- 📝 I regularly write articles on [hmogni.com](hmogni.com)
+<!-- - 📝 I regularly write articles on [hmogni.me](hmogni.me) -->
 
-- 📫 How to reach me **contact@hmogni.com**
+- 📫 How to reach me **hamzamogni5@gmail.com**
 
-- 📄 Know about my experiences [hmogni.com/resume](hmogni.com/resume)
+<!-- - 📄 Know about my experiences [hmogni.me/resume](hmogni.me/resume) -->
+- 📄 Know about my experiences on [Linkedin](https://linkedin.com/in/hamza-mogni)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
