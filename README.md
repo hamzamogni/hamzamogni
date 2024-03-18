@@ -20,7 +20,6 @@ I am a software engineer passionate especially by data-intensive systems.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-017cee?style=for-the-badge)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![php](https://img.shields.io/badge/php-7a86b8?style=for-the-badge&logo=php&logoColor=white)
 
 <h3>Tools:</h3>
 <p align="left">
