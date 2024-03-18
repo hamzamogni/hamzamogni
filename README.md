@@ -2,19 +2,9 @@
 
 <p align="left"> <a href="https://twitter.com/hamza_mogni" target="blank"><img src="https://img.shields.io/twitter/follow/hamza_mogni?logo=twitter&style=for-the-badge" alt="hamza_mogni" /></a> </p>
 
-I am a software engineer passionate especially by data-intensive applications and businesses.
+I am a software engineer passionate especially by data-intensive systems.
 
-- 🔭 I’m currently working on **a healthcare project, gathering and analyzing foetal videos through ML and data engineering**
-
-- 🌱 I’m currently learning **golang and storage engines**
-
-- 👯 I’m looking to collaborate on **any challenging data-driven system**
-
-<!-- - 👨‍💻 All of my projects are available at [hmogni.com/projects](hmogni.com/projects) -->
-
-- 📝 I write articles on [hmogni.me](hmogni.me)
-
-- 📫 You can email me at **hamzamogni5@gmail.com**
+- 🌱 Currently learning **golang and storage engines**
 
 
 <h3 align="left">Connect with me:</h3>
